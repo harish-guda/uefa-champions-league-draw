@@ -1,6 +1,6 @@
 # Simulating UEFA Champions League
 
-Here's a simple code snippet that I will use to simulate the UEFA Champions League's Round of 16. 
+Here's a simple code snippet that I use to simulate the UEFA Champions League's Round of 16. 
 
 The round of 16 is a special round due to a number of constraints on the possible matches:
 1. No two teams from the same country can be matched. 
